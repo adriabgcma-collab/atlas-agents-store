@@ -6,7 +6,7 @@
       "category": "ejecucion",
       "description": "Agente para ejecutar scripts y comandos de terminal.",
       "version": "1.0.0",
-      "zip_url": "https://raw.githubusercontent.com/adriabgcma-collab/atlas-agents-store/main/zips/t_a_s_k_e_r.zip",
+      "zip_url": "https://raw.githubusercontent.com/adriabgcma-collab/atlas-agents-store/main/zip/t_a_s_k_e_r.zip"
       "dependencies": []
     }
   ]
