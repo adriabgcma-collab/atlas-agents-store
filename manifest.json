@@ -1,12 +1,12 @@
 {
   "agents": [
     {
-      "id": "t_a_s_k_e_r",
-      "name": "T.A.S.K.E.R",
+      "id": "t_i_t_a_n",
+      "name": "T.I.T.A.N",
       "category": "ejecucion",
       "description": "Agente para ejecutar scripts y comandos de terminal.",
       "version": "1.0.0",
-      "zip_url": "https://github.com/adriabgcma-collab/atlas-agents-store/raw/refs/heads/main/zips/t_a_s_k_e_r.zip",
+      "zip_url": "https://github.com/adriabgcma-collab/atlas-agents-store/raw/refs/heads/main/zips/t_i_t_a_n.zip",
       "dependencies": []
     }
   ]
